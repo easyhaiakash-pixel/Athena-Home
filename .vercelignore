@@ -1,0 +1,7 @@
+checks
+*.md
+PROMPT.md
+.DS_Store
+.env.local
+.env*
+.vercel
